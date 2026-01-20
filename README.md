@@ -21,7 +21,14 @@
 
 <br>
 
+<div align="center">
+  
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldocesardosreis&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldocesardosreis&theme=algolia&utcOffset=8) |
+| :-: | :-: | :-: |
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldocesardosreis&theme=algolia) | [![GitHub Streak](https://github-readme-streak-stats-iota-amber.vercel.app?user=aldocesardosreis&theme=algolia&hide_border=true)](https://git.io/streak-stats) |
+| :-: | :-: |
+</div>
 <!--
 **aldocesardosreis/aldocesardosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
