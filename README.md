@@ -37,3 +37,47 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
 </div>
 
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0F3057?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aldocesardosreis/)
+  
+</div>
+
+<div align="center">
+  <p align="center">
+      <samp>
+        ♡  ⊹
+        ⊹
+        ⊹
+        ♡
+      </samp>
+  </p>
+</div>
+<br>
+
+</details>
+
+##
+
+<br>
+<br>
+
+<div align="center">
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=aldocesardosreis&style=flat-square&color=0F3057" /></p> 
+</div>
+
+<br>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=12&section=footer"/>
