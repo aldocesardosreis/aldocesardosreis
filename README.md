@@ -14,6 +14,14 @@
       Hi there! I'm <b>Aldo Cesar</b>
   </samp>
 </div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6693E4&center=true&width=435&lines=Be+welcome!;I'm+a+Electrical+Engineering+Student" alt="Typing SVG"/>
+</div>
+
+<br>
+
+
 <!--
 **aldocesardosreis/aldocesardosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
