@@ -50,8 +50,6 @@
     </b>
   </samp>
   <br>
-  <br>
-
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0F3057?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aldocesardosreis/)
   
 </div>
@@ -66,7 +64,6 @@
       </samp>
   </p>
 </div>
-<br>
 
 </details>
 
