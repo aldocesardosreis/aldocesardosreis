@@ -37,6 +37,7 @@
   <img width="40" src="https://github.com/aldocesardosreis/HelloWorld/blob/main/img/espressif.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Matlab-Dark.svg">
 </div>
 
 ##
