@@ -50,8 +50,10 @@
     </b>
   </samp>
   <br>
+  <br>
+
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0F3057?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/aldocesardosreis/)
-  
+
 </div>
 
 <div align="center">
@@ -75,7 +77,6 @@
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=aldocesardosreis&style=flat-square&color=0F3057" /></p> 
 </div>
 
-<br>
 <div align="center">
   <img align="center" height="150" src="https://github.com/aldocesardosreis/HelloWorld/blob/main/img/konata2.jpeg" />
 </div>
