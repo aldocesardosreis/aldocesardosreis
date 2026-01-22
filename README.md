@@ -73,7 +73,6 @@
 ##
 
 <br>
-<br>
 
 <div align="center">
   <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=aldocesardosreis&style=flat-square&color=0F3057" /></p> 
