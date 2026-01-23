@@ -15,24 +15,26 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6693E4&center=true&width=435&lines=Be+welcome!;I'm+a+Electrical+Engineering+Student" alt="Typing SVG"/>
-</div>
-
-<br>
-
 <div align="center">
-  
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=transparent) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldocesardosreis&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut) |
-| :-: | :-: |
- 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldocesardosreis&theme=transparent&utcOffset=-3) |  [![GitHub Streak](https://github-readme-streak-stats-iota-amber.vercel.app?user=aldocesardosreis&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
-| :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldocesardosreis&theme=transparent) |
-| :-: |
+<div style="display:flex; gap:10px; justify-content:center;">
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=transparent" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldocesardosreis&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut" />
+</div>
+
+<br/>
+
+<div style="display:flex; gap:10px; justify-content:center;">
+  <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldocesardosreis&theme=transparent&utcOffset=-3" />
+  <img width="48%" src="https://github-readme-streak-stats-iota-amber.vercel.app?user=aldocesardosreis&theme=transparent&hide_border=true" />
+</div>
+
+<br/>
+
+<img width="98%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldocesardosreis&theme=transparent" />
 
 </div>
+
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
