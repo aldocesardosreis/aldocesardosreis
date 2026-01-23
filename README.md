@@ -23,10 +23,10 @@
 
 <div align="center">
   
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldocesardosreis&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=transparent) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldocesardosreis&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=donut) |
 | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldocesardosreis&theme=transparent&utcOffset=-3) | [![GitHub Streak](https://github-readme-streak-stats-iota-amber.vercel.app?user=aldocesardosreis&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+ 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldocesardosreis&theme=transparent&utcOffset=-3) |  [![GitHub Streak](https://github-readme-streak-stats-iota-amber.vercel.app?user=aldocesardosreis&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
 | :-: | :-: |
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldocesardosreis&theme=transparent) |
