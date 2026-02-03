@@ -19,7 +19,7 @@
   
 <div style="display:flex; gap:10px; justify-content:center;">
   <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldocesardosreis&theme=transparent" />
-  <img width="51%" src="https://github-readme-stats-lu2z96ccy-aldocesardosreis-projects.vercel.app/api/top-langs/?username=aldocesardosreis&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="51%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aldocesardosreis&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
   ##
